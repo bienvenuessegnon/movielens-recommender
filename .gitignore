@@ -1,0 +1,18 @@
+# Données MovieLens : non redistribuables, téléchargées par `python -m src.data`
+data/*
+!data/README.md
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+.ipynb_checkpoints/
+
+# Système / éditeurs
+.DS_Store
+.vscode/
+.idea/
