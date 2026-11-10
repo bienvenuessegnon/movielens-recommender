@@ -1,0 +1,4 @@
+modele,rmse,mae,precision@10,recall@10,utilisateurs_top_n,entrainement_s
+Popularité / moyenne,1.0370,0.8319,0.2129,0.1179,456,0.0284
+Item-KNN (cosinus),0.9963,0.7622,0.2947,0.1654,456,0.9084
+Factorisation (SVD-SGD),0.9339,0.7353,0.1333,0.0479,456,11.9264
