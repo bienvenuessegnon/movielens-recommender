@@ -1,0 +1,7 @@
+{
+  "split": "u1.base / u1.test (officiel GroupLens)",
+  "train_ratings": 80000,
+  "test_ratings": 20000,
+  "relevance_threshold": 4,
+  "k": 10
+}
