@@ -1,4 +1,4 @@
-# 🎬 Recommandation de films — MovieLens 100K
+# Recommandation de films — MovieLens 100K
 
 [![tests](https://github.com/bienvenuessegnon/movielens-recommender/actions/workflows/tests.yml/badge.svg)](https://github.com/bienvenuessegnon/movielens-recommender/actions/workflows/tests.yml)
 ![Python](https://img.shields.io/badge/python-3.11%2B-8B5CF6)
@@ -142,7 +142,6 @@ doit être suggérée ; toute publication doit citer :
 
 ## Auteur
 
-**Bienvenu ESSEGNON** — AI Engineer Aspiring & Mathematicien ·
-GitHub [@bienvenuessegnon](https://github.com/bienvenuessegnon)
+[Bienvenu ESSEGNON](https://github.com/bienvenuessegnon)
 
 Code sous licence [MIT](LICENSE).
